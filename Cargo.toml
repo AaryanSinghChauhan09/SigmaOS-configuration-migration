@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-configuration-migration"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS configuration-migration component - installer"
+
+[lib]
+name = "configuration_migration"
+path = "src/lib.rs"
